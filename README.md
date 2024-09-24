@@ -93,7 +93,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-- Special thanks to Moulya A S for being my partner in this project.
+- Special thanks to Tejas Shivaprasad for being my partner in this project.
 - Inspired by various works in the field of AI-driven mental health assessment.
 
 ## Made By
